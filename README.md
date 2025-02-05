@@ -1,4 +1,9 @@
-There's no readme here, there's barely a software license here. Honestly, you're looking in the wrong place. There's a perfectly good weird file right there to download. If you really need another hint, I suggest not wearing headphones?
+There's no readme here, there's barely a software license here, and there isn't even any software! I just include it out of habit, just to feel something, anything at all. 
+
+Honestly, you're looking in the wrong place. There's a perfectly good weird file right up there to download. 
+
+
+If you really need another hint, I suggest not wearing headphones?
 
 POTION SELLER PUBLIC LICENSE
 
